@@ -1,1 +1,3 @@
 # neatcode
+
+Write quality code
