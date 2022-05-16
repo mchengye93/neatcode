@@ -9,8 +9,8 @@ def sort_scores(unsorted_scores, highest_possible_score):
 
 	for score in range(highest_possible_score, -1, -1):
 
-		times = score_count[score]
-		for i in range(times):
+		counts= score_count[score]
+		for i in range(counts):
 			sorted_scores.append(score)
 
 	return sorted_scores
