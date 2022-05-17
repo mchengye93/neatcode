@@ -18,4 +18,4 @@ def get_products_of_all_ints_except_at_index(arr):
 
 arr = [1, 7, 3, 4]
 
-print(get_products_of_all_ints_except_at_index(arr))
+print(get_products_of_all_ints_except_at_index(arr)) # [84, 12, 28, 21]
